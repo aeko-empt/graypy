@@ -25,11 +25,11 @@
 
 Name:		python-%{pkgname}
 Version:	2.1.0
-Release:	1%{?dist}
+Release:	CROC1%{?dist}
 Summary:	Python library for logging handlers that send log messages in the GELF
 
 Group:		Development/Python
-License:	MIT
+License:	ASL 2.0
 URL:		https://github.com/severb/graypy
 Source0:	graypy-2.1.0.tar.gz
 BuildArch:	noarch
