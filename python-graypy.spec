@@ -99,4 +99,4 @@ Summary: %summary
 
 %changelog
 * Mon Mar 23 2020 Evgenii Kovalev <evgkovalev@croc.ru>
-- Build rpm package grapy.
+- Build rpm package graypy.
