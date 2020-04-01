@@ -31,7 +31,7 @@ Summary:	Python library for logging handlers that send log messages in the GELF
 Group:		Development/Python
 License:	ASL 2.0
 URL:		https://github.com/severb/graypy
-Source0:	graypy-2.1.0.tar.gz
+Source0:	python-%{pkgname}-2.1.0.tar.gz
 BuildArch:	noarch
 
 
