@@ -1,7 +1,7 @@
 PROJECT := graypy
 PACKAGE := python-$(PROJECT)
 VERSION := 2.1.0# from graypy/__init__.py
-RELEASE := CROC1
+RELEASE := CROC2
 MKFILE_DIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 
 $(PACKAGE).spec: clean
